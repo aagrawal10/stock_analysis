@@ -1,2 +1,3 @@
 # stock_analysis
-Test commit
+master - main branch
+rough - current work
