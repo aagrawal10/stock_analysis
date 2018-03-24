@@ -51,5 +51,5 @@ class Stock(object):
     return self.__dataframe
 
 if __name__ == '__main__':
-  stock = Stock('RELIANCE')
+  stock = Stock('RBLBANK')
   print stock.get_data_frame()
